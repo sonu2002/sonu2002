@@ -23,23 +23,23 @@
 <clipPath id="bar"><rect x="24" y="52" width="372" height="10" rx="5"/></clipPath>
 <rect class="track" x="24" y="52" width="372" height="10" rx="5"/>
 <g clip-path="url(#bar)">
-<rect x="24.00" y="52" width="183.33" height="10" fill="#e34c26"/>
-<rect x="206.83" y="52" width="75.88" height="10" fill="#DA5B0B"/>
-<rect x="282.21" y="52" width="53.16" height="10" fill="#b07219"/>
-<rect x="334.86" y="52" width="29.39" height="10" fill="#663399"/>
-<rect x="363.76" y="52" width="24.31" height="10" fill="#f1e05a"/>
-<rect x="387.57" y="52" width="8.93" height="10" fill="#3572A5"/>
+<rect x="24.00" y="52" width="181.12" height="10" fill="#e34c26"/>
+<rect x="204.62" y="52" width="74.97" height="10" fill="#DA5B0B"/>
+<rect x="279.08" y="52" width="52.52" height="10" fill="#b07219"/>
+<rect x="331.10" y="52" width="29.04" height="10" fill="#663399"/>
+<rect x="359.65" y="52" width="24.02" height="10" fill="#f1e05a"/>
+<rect x="383.17" y="52" width="13.33" height="10" fill="#3572A5"/>
 </g>
 <circle cx="29.0" cy="96" r="5" fill="#e34c26"/>
-<text class="label" x="40.0" y="100">HTML <tspan class="small">48.8%</tspan></text>
+<text class="label" x="40.0" y="100">HTML <tspan class="small">48.2%</tspan></text>
 <circle cx="215.0" cy="96" r="5" fill="#DA5B0B"/>
-<text class="label" x="226.0" y="100">Jupyter Notebook <tspan class="small">20.1%</tspan></text>
+<text class="label" x="226.0" y="100">Jupyter Notebook <tspan class="small">19.9%</tspan></text>
 <circle cx="29.0" cy="124" r="5" fill="#b07219"/>
-<text class="label" x="40.0" y="128">Java <tspan class="small">14.1%</tspan></text>
+<text class="label" x="40.0" y="128">Java <tspan class="small">13.9%</tspan></text>
 <circle cx="215.0" cy="124" r="5" fill="#663399"/>
-<text class="label" x="226.0" y="128">CSS <tspan class="small">7.7%</tspan></text>
+<text class="label" x="226.0" y="128">CSS <tspan class="small">7.6%</tspan></text>
 <circle cx="29.0" cy="152" r="5" fill="#f1e05a"/>
-<text class="label" x="40.0" y="156">JavaScript <tspan class="small">6.4%</tspan></text>
+<text class="label" x="40.0" y="156">JavaScript <tspan class="small">6.3%</tspan></text>
 <circle cx="215.0" cy="152" r="5" fill="#3572A5"/>
-<text class="label" x="226.0" y="156">Python <tspan class="small">2.3%</tspan></text>
+<text class="label" x="226.0" y="156">Python <tspan class="small">3.4%</tspan></text>
 </svg>
