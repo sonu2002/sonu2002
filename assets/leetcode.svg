@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="180" viewBox="0 0 420 180" role="img" aria-label="LeetCode stats">
+
+<style>
+  .bg { fill: #ffffff; stroke: #d0d7de; }
+  .title { font: 600 17px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #4f46e5; }
+  .label { font: 400 13px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #57606a; }
+  .value { font: 700 15px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #1f2328; }
+  .big { font: 700 28px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #1f2328; }
+  .small { font: 400 11px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #8c959f; }
+  .accent { fill: #2da44e; }
+  .icon { fill: #4f46e5; }
+  .track { fill: #eaeef2; }
+  .ring-track { stroke: #eaeef2; }
+  .divider { stroke: #d0d7de; }
+  .l0 { fill: #ebedf0; } .l1 { fill: #9be9a8; } .l2 { fill: #40c463; } .l3 { fill: #30a14e; } .l4 { fill: #216e39; }
+  @media (prefers-color-scheme: dark) {
+    .bg { fill: #0d1117; stroke: #30363d; }
+    .title { fill: #a5b4fc; }
+    .label { fill: #9198a1; }
+    .value, .big { fill: #f0f6fc; }
+    .small { fill: #6e7681; }
+    .accent { fill: #3fb950; }
+    .icon { fill: #a5b4fc; }
+    .track { fill: #21262d; }
+    .ring-track { stroke: #21262d; }
+    .divider { stroke: #30363d; }
+    .l0 { fill: #161b22; } .l1 { fill: #0e4429; } .l2 { fill: #006d32; } .l3 { fill: #26a641; } .l4 { fill: #39d353; }
+  }
+</style>
+<rect class="bg" x="0.5" y="0.5" rx="10" width="419" height="179"/>
+<text class="title" x="24" y="36">LeetCode</text>
+<text class="small" x="396" y="36" text-anchor="end">Rank 20,265 · sonuphogat0015</text>
+<circle class="ring-track" cx="84" cy="108" r="46" fill="none" stroke-width="7"/>
+<circle cx="84" cy="108" r="46" fill="none" stroke="#ffa116" stroke-width="7" stroke-linecap="round" stroke-dasharray="83.3 289.0" transform="rotate(-90 84 108)"/>
+<text class="big" x="84" y="114" text-anchor="middle">1,185</text>
+<text class="small" x="84" y="132" text-anchor="middle">solved</text>
+<text class="label" x="170" y="72" style="fill:#00b8a3;font-weight:600">Easy</text>
+<text class="label" x="396" y="72" text-anchor="end"><tspan class="value" style="font-size:13px">309</tspan> / 975</text>
+<rect class="track" x="170" y="79" width="226" height="7" rx="3.5"/>
+<rect x="170" y="79" width="71.6" height="7" rx="3.5" fill="#00b8a3"/>
+<text class="label" x="170" y="108" style="fill:#ffc01e;font-weight:600">Medium</text>
+<text class="label" x="396" y="108" text-anchor="end"><tspan class="value" style="font-size:13px">652</tspan> / 2,146</text>
+<rect class="track" x="170" y="115" width="226" height="7" rx="3.5"/>
+<rect x="170" y="115" width="68.7" height="7" rx="3.5" fill="#ffc01e"/>
+<text class="label" x="170" y="144" style="fill:#ef4743;font-weight:600">Hard</text>
+<text class="label" x="396" y="144" text-anchor="end"><tspan class="value" style="font-size:13px">224</tspan> / 989</text>
+<rect class="track" x="170" y="151" width="226" height="7" rx="3.5"/>
+<rect x="170" y="151" width="51.2" height="7" rx="3.5" fill="#ef4743"/>
+</svg>

@@ -1,4 +1,4 @@
-# Redraws the stats cards in assets/ every day using only GitHub's own API.
+# Redraws the profile cards in assets/ every day using GitHub's own API (+ LeetCode's public API).
 # No external stats service is used, so the images can't break.
 name: Update profile stats
 
@@ -27,6 +27,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           STATS_USER: ${{ github.repository_owner }}
+          LEETCODE_USER: sonuphogat0015
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"

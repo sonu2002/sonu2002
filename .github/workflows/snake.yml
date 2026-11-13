@@ -1,0 +1,37 @@
+# Draws the "snake eating my contribution graph" animation every day
+# and publishes it to the 'output' branch (used by the profile README).
+name: Generate snake animation
+
+on:
+  schedule:
+    - cron: "37 3 * * *"   # every day at 03:37 UTC
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/snake.yml
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - name: Publish to the output branch
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd dist
+          git init -q -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898141+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -q -m "Update snake animation"
+          git push -q --force "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" output
