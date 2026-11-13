@@ -75,8 +75,8 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sonu2002&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu2002&layout=compact&hide_border=true&langs_count=6" alt="Top languages"/>
+  <img width="49%" src="./assets/github-stats.svg" alt="GitHub stats"/>
+  <img width="49%" src="./assets/top-languages.svg" alt="Most used languages"/>
 </p>
 
 ---

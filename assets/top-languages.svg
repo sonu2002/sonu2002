@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="180" viewBox="0 0 420 180" role="img" aria-label="Top languages">
+
+<style>
+  .bg { fill: #ffffff; stroke: #d0d7de; }
+  .title { font: 600 17px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #4f46e5; }
+  .label { font: 400 13px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #57606a; }
+  .value { font: 700 15px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #1f2328; }
+  .small { font: 400 11px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #8c959f; }
+  .icon { fill: #4f46e5; }
+  .track { fill: #eaeef2; }
+  @media (prefers-color-scheme: dark) {
+    .bg { fill: #0d1117; stroke: #30363d; }
+    .title { fill: #a5b4fc; }
+    .label { fill: #9198a1; }
+    .value { fill: #f0f6fc; }
+    .small { fill: #6e7681; }
+    .icon { fill: #a5b4fc; }
+    .track { fill: #21262d; }
+  }
+</style>
+<rect class="bg" x="0.5" y="0.5" rx="10" width="419" height="179"/>
+<text class="title" x="24" y="36">Most used languages</text>
+<clipPath id="bar"><rect x="24" y="52" width="372" height="10" rx="5"/></clipPath>
+<rect class="track" x="24" y="52" width="372" height="10" rx="5"/>
+<g clip-path="url(#bar)">
+<rect x="24.00" y="52" width="183.33" height="10" fill="#e34c26"/>
+<rect x="206.83" y="52" width="75.88" height="10" fill="#DA5B0B"/>
+<rect x="282.21" y="52" width="53.16" height="10" fill="#b07219"/>
+<rect x="334.86" y="52" width="29.39" height="10" fill="#663399"/>
+<rect x="363.76" y="52" width="24.31" height="10" fill="#f1e05a"/>
+<rect x="387.57" y="52" width="8.93" height="10" fill="#3572A5"/>
+</g>
+<circle cx="29.0" cy="96" r="5" fill="#e34c26"/>
+<text class="label" x="40.0" y="100">HTML <tspan class="small">48.8%</tspan></text>
+<circle cx="215.0" cy="96" r="5" fill="#DA5B0B"/>
+<text class="label" x="226.0" y="100">Jupyter Notebook <tspan class="small">20.1%</tspan></text>
+<circle cx="29.0" cy="124" r="5" fill="#b07219"/>
+<text class="label" x="40.0" y="128">Java <tspan class="small">14.1%</tspan></text>
+<circle cx="215.0" cy="124" r="5" fill="#663399"/>
+<text class="label" x="226.0" y="128">CSS <tspan class="small">7.7%</tspan></text>
+<circle cx="29.0" cy="152" r="5" fill="#f1e05a"/>
+<text class="label" x="40.0" y="156">JavaScript <tspan class="small">6.4%</tspan></text>
+<circle cx="215.0" cy="152" r="5" fill="#3572A5"/>
+<text class="label" x="226.0" y="156">Python <tspan class="small">2.3%</tspan></text>
+</svg>
