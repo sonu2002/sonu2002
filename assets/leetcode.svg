@@ -31,8 +31,8 @@
 <text class="title" x="24" y="36">LeetCode</text>
 <text class="small" x="396" y="36" text-anchor="end">Rank 20,265 · sonuphogat0015</text>
 <circle class="ring-track" cx="84" cy="108" r="46" fill="none" stroke-width="7"/>
-<circle cx="84" cy="108" r="46" fill="none" stroke="#ffa116" stroke-width="7" stroke-linecap="round" stroke-dasharray="83.3 289.0" transform="rotate(-90 84 108)"/>
-<text class="big" x="84" y="114" text-anchor="middle">1,185</text>
+<circle cx="84" cy="108" r="46" fill="none" stroke="#ffa116" stroke-width="7" stroke-linecap="round" stroke-dasharray="83.4 289.0" transform="rotate(-90 84 108)"/>
+<text class="big" x="84" y="114" text-anchor="middle">1,186</text>
 <text class="small" x="84" y="132" text-anchor="middle">solved</text>
 <text class="label" x="170" y="72" style="fill:#00b8a3;font-weight:600">Easy</text>
 <text class="label" x="396" y="72" text-anchor="end"><tspan class="value" style="font-size:13px">309</tspan> / 975</text>
@@ -43,7 +43,7 @@
 <rect class="track" x="170" y="115" width="226" height="7" rx="3.5"/>
 <rect x="170" y="115" width="68.7" height="7" rx="3.5" fill="#ffc01e"/>
 <text class="label" x="170" y="144" style="fill:#ef4743;font-weight:600">Hard</text>
-<text class="label" x="396" y="144" text-anchor="end"><tspan class="value" style="font-size:13px">224</tspan> / 989</text>
+<text class="label" x="396" y="144" text-anchor="end"><tspan class="value" style="font-size:13px">225</tspan> / 989</text>
 <rect class="track" x="170" y="151" width="226" height="7" rx="3.5"/>
-<rect x="170" y="151" width="51.2" height="7" rx="3.5" fill="#ef4743"/>
+<rect x="170" y="151" width="51.4" height="7" rx="3.5" fill="#ef4743"/>
 </svg>
