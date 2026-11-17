@@ -31,15 +31,15 @@
 <text class="title" x="24" y="36">Contribution streak</text>
 <line class="divider" x1="140" y1="62" x2="140" y2="152" stroke-width="1"/>
 <line class="divider" x1="280" y1="62" x2="280" y2="152" stroke-width="1"/>
-<text class="big" x="70" y="104" text-anchor="middle">563</text>
+<text class="big" x="70" y="104" text-anchor="middle">564</text>
 <text class="label" x="70" y="128" text-anchor="middle">Contributions</text>
 <text class="small" x="70" y="146" text-anchor="middle">last 12 months</text>
 <circle class="ring-track" cx="210" cy="96" r="27" fill="none" stroke-width="5"/>
-<circle cx="210" cy="96" r="27" fill="none" stroke="#2da44e" stroke-width="5" stroke-linecap="round" stroke-dasharray="0.0 999" transform="rotate(-90 210 96)"/>
-<text class="big" x="210" y="105" text-anchor="middle">0</text>
+<circle cx="210" cy="96" r="27" fill="none" stroke="#2da44e" stroke-width="5" stroke-linecap="round" stroke-dasharray="1.9 999" transform="rotate(-90 210 96)"/>
+<text class="big" x="210" y="105" text-anchor="middle">1</text>
 <text class="label" x="210" y="146" text-anchor="middle" style="font-weight:600">Current streak</text>
 <text class="big" x="350" y="104" text-anchor="middle">91</text>
 <text class="label" x="350" y="128" text-anchor="middle">Longest streak</text>
 <text class="small" x="350" y="146" text-anchor="middle">Feb 23 – May 24</text>
-<text class="small" x="396" y="36" text-anchor="end">214 active days</text>
+<text class="small" x="396" y="36" text-anchor="end">215 active days</text>
 </svg>
