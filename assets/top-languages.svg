@@ -32,10 +32,10 @@
 <clipPath id="bar"><rect x="24" y="52" width="372" height="10" rx="5"/></clipPath>
 <rect class="track" x="24" y="52" width="372" height="10" rx="5"/>
 <g clip-path="url(#bar)">
-<rect x="24.00" y="52" width="179.89" height="10" fill="#e34c26"/>
-<rect x="203.39" y="52" width="74.44" height="10" fill="#DA5B0B"/>
-<rect x="277.33" y="52" width="52.44" height="10" fill="#b07219"/>
-<rect x="329.26" y="52" width="28.84" height="10" fill="#663399"/>
+<rect x="24.00" y="52" width="179.86" height="10" fill="#e34c26"/>
+<rect x="203.36" y="52" width="74.43" height="10" fill="#DA5B0B"/>
+<rect x="277.29" y="52" width="52.49" height="10" fill="#b07219"/>
+<rect x="329.27" y="52" width="28.84" height="10" fill="#663399"/>
 <rect x="357.61" y="52" width="23.85" height="10" fill="#f1e05a"/>
 <rect x="380.96" y="52" width="15.54" height="10" fill="#3572A5"/>
 </g>

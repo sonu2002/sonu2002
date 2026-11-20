@@ -18,6 +18,7 @@
 
 - 🎓 Studying **Data Science & AI** at **Gisma University of Applied Sciences**, Berlin
 - 💼 **3+ years of experience as an MIS Associate**: reporting and business intelligence with **Excel** and **Power BI**
+- 🧑‍💻 **Java & Full-Stack Development** training at **AccioJob** (2022 – 2024): Java, DSA, SQL, HTML/CSS/JavaScript, React
 - 📊 I turn raw business data into decisions, from reports and dashboards to end-to-end ML pipelines
 - 💻 Background in **Java** and **web development** (HTML, CSS, JavaScript, React)
 - 🧠 **1,185+ LeetCode problems solved** (309 easy · 652 medium · 224 hard)
