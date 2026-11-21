@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Data Science & AI student in Berlin | Ex-MIS Associate, 3+ years in reporting & BI | Python · SQL · Power BI · Excel · Java"/>
+  <img src="./assets/header.svg" width="100%" alt="Data Science & AI student in Berlin | Ex-MIS Executive, 3+ years in reporting & BI | Python · SQL · Power BI · Excel · Java"/>
 </p>
 
 <h1 align="center">Hi, I'm Sonu Phogat 👋</h1>
-<h3 align="center">Data Science & AI student · Ex-MIS Associate (3+ yrs) · Python · SQL · Power BI · Excel · Java</h3>
+<h3 align="center">Data Science & AI student · Ex-MIS Executive (3+ yrs) · Python · SQL · Power BI · Excel · Java</h3>
 
 <p align="center">
   <a href="https://sonu2002.github.io"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
@@ -17,7 +17,8 @@
 ### 🙋 About me
 
 - 🎓 Studying **Data Science & AI** at **Gisma University of Applied Sciences**, Berlin
-- 💼 **3+ years of experience as an MIS Associate**: reporting and business intelligence with **Excel** and **Power BI**
+- 💼 **MIS Executive** at **SGL Marketing Co** (Mar 2025 – Feb 2026): daily & weekly MIS reports in **Excel**, **Power BI** dashboards used by management, automated manual reports, data checks for error-free reporting
+- 💼 **MIS Associate** at **TPF Getinsa Euroestudios** (Jul 2022 – Aug 2024): daily & weekly MIS reports in **Excel**, **Power BI** dashboards used by managers, automated recurring reports, data cleaning and validation
 - 🧑‍💻 **Java & Full-Stack Development** training at **AccioJob** (2022 – 2024): Java, DSA, SQL, HTML/CSS/JavaScript, React
 - 📊 I turn raw business data into decisions, from reports and dashboards to end-to-end ML pipelines
 - 💻 Background in **Java** and **web development** (HTML, CSS, JavaScript, React)
