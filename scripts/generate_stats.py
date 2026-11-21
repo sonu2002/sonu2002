@@ -30,7 +30,7 @@ OUT = Path(os.environ.get("STATS_OUT", "assets"))
 # Lines shown in the animated header; edit freely.
 HEADER_LINES = [
     "Data Science & AI student in Berlin",
-    "Ex-MIS Associate · 3+ years in reporting & BI",
+    "Ex-MIS Executive · 3+ years in reporting & BI",
     "Python · SQL · Power BI · Excel · Java",
     "1,185+ LeetCode problems solved",
     "Open to Werkstudent & entry-level roles",
