@@ -32,15 +32,15 @@
 <clipPath id="bar"><rect x="24" y="52" width="372" height="10" rx="5"/></clipPath>
 <rect class="track" x="24" y="52" width="372" height="10" rx="5"/>
 <g clip-path="url(#bar)">
-<rect x="24.00" y="52" width="198.84" height="10" fill="#e34c26"/>
-<rect x="222.34" y="52" width="56.60" height="10" fill="#DA5B0B"/>
-<rect x="278.44" y="52" width="39.96" height="10" fill="#b07219"/>
-<rect x="317.89" y="52" width="39.38" height="10" fill="#3572A5"/>
+<rect x="24.00" y="52" width="198.82" height="10" fill="#e34c26"/>
+<rect x="222.32" y="52" width="56.60" height="10" fill="#DA5B0B"/>
+<rect x="278.41" y="52" width="39.99" height="10" fill="#b07219"/>
+<rect x="317.90" y="52" width="39.38" height="10" fill="#3572A5"/>
 <rect x="356.78" y="52" width="22.00" height="10" fill="#663399"/>
 <rect x="378.28" y="52" width="18.22" height="10" fill="#f1e05a"/>
 </g>
 <circle cx="29.0" cy="96" r="5" fill="#e34c26"/>
-<text class="label" x="40.0" y="100">HTML <tspan class="small">52.8%</tspan></text>
+<text class="label" x="40.0" y="100">HTML <tspan class="small">52.7%</tspan></text>
 <circle cx="215.0" cy="96" r="5" fill="#DA5B0B"/>
 <text class="label" x="226.0" y="100">Jupyter Notebook <tspan class="small">14.9%</tspan></text>
 <circle cx="29.0" cy="124" r="5" fill="#b07219"/>
